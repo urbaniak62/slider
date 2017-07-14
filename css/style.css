@@ -1,14 +1,28 @@
 
 
 body{
-  width: 70%;
-  height: 100%;
-  margin-left: 15%;
+
+  height: auto;
+  margin: 0 auto;
   /*background: url(../img/ecran.png);no-repeat center;*/
 }
+.contenaire{
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  width: 70%;
+  height: 400px;
+  overflow: hidden;
+  border: 1px solid black;
 
+
+}
 img{
-  width: 50%;
-  position: absolute;
+  height: auto;
+  width : 100%;
+  display: block;
+
+
+  /*position: absolute;*/
 
 }
