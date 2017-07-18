@@ -4,7 +4,7 @@ body{
 
   height: auto;
   margin: 0 auto;
-  /*background: url(../img/ecran.png);no-repeat center;*/
+  background-color: #010101;
 }
 .contenaire{
   display: flex;
@@ -13,16 +13,23 @@ body{
   width: 70%;
   height: 400px;
   overflow: hidden;
-  border: 1px solid black;
 
-
+  margin:100px auto;
+  border-top: 3px solid red;
+  border-bottom: 3px solid red;
+  /*margin-top:10px;*/
 }
 img{
   height: auto;
   width : 100%;
   display: block;
+}
+footer{
+  height: 200px;
+  overflow: hidden
+
+}
 
 
-  /*position: absolute;*/
 
 }

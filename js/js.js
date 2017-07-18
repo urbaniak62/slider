@@ -7,17 +7,13 @@ var arriere=document.getElementById=("arriere");
 
 /*----------------chemin image dans le tableau------*/
 
-image.push("img/3d.jpg");
-image.push("img/3d1.jpg");
-image.push("img/3d2.jpg");
-image.push("img/3d3.jpg");
+
 image.push("img/3d4.jpg");
-image.push("img/3d5.jpg");
 image.push("img/3d6.jpg");
 image.push("img/3d7.jpg");
-image.push("img/3d8.jpg");
 image.push("img/3d9.jpg");
 image.push("img/3d10.jpg");
+
 
 // console.log(image);
 
