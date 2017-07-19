@@ -24,12 +24,15 @@ img{
   width : 100%;
   display: block;
 }
-footer{
-  height: 200px;
-  overflow: hidden
-
+.bouton{
+  width: 70%;
+  margin: -100px auto;
 }
-
-
-
+.avant, .arriere{
+  font-size: 30px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.avant{
+float:right;
 }
